@@ -9,8 +9,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Home()
+    }
+}
+
+struct Home: View {
+    var body: some View {
+        PullToRefreshView()
     }
 }
 

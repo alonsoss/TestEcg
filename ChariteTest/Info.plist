@@ -46,5 +46,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSHealthClinicalHealthRecordsShareUsageDescription</key>
+	<string>Nimm das an HelloHelloHi</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Nimm das an HelloHelloHi</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Nimm das an HelloHelloHi</string>
 </dict>
 </plist>
